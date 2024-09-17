@@ -1,1 +1,2 @@
-![problem1](D:\git\PF-Theory-24k-0961\Assignment Folder\Assign-1\img\p1.jpg)
+![problem1.1](img\p1.jpg)
+![problem1.2](img\p11.jpg)
