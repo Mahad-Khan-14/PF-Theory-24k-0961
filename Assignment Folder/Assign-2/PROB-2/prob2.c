@@ -1,3 +1,7 @@
+// M.Mahad khan
+// 24k-0961
+// Problem 2
+
 #include <stdio.h>
 #include <string.h>
 
