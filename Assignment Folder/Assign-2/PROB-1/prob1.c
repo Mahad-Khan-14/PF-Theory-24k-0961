@@ -1,6 +1,7 @@
-// M.Mahad
-// 24k-0961
-// q1
+// M.Mahad Khan
+// 24K-0961
+// BCS-1C
+// Problem-1
 
 #include <stdio.h>
 int main()

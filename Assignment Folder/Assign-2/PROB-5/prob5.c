@@ -1,3 +1,8 @@
+// M.Mahad Khan
+// 24K-0961
+// BCS-1C
+// Problem-5
+
 #include <stdio.h>
 
 #define MAX_SIZE 100

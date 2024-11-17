@@ -1,6 +1,7 @@
-// M.Mahad khan
-// 24k-0961
-// Problem 2
+// M.Mahad Khan
+// 24K-0961
+// BCS-1C
+// Problem-2
 
 #include <stdio.h>
 #include <string.h>
