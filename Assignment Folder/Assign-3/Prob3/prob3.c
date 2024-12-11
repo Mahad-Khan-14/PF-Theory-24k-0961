@@ -1,3 +1,7 @@
+// M.Mahad Khan
+// 24K-0961
+// BCS-1C
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
